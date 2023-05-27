@@ -57,7 +57,7 @@ All the functions from the CSFML and the math library are allowed.
 From the libc, here is the full list of authorized functions:
 
 ```text
-**malloc
+malloc
 free
 memset
 (s)rand
