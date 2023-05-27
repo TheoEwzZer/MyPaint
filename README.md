@@ -2,7 +2,7 @@
 
 ## CONTEXT
 
-So far,you have created command line (bash) projects. But,you don’t use command line daily, but a _Graphic User Interface_.
+So far, you have created command line (bash) projects. But, you don’t use command line daily, but a _Graphic User Interface_.
 
 Through this project, you will develop your own GUI by creating a _paint_ like software.
 
